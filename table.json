@@ -1,0 +1,49 @@
+{
+  "items":[
+    {
+      "auth": "Silvia Cagnani",
+      "camera": "Nikon Z6 + 24-70 f/4 S Kit",
+      "img": "img/1_m.jpg"
+    },
+    {
+      "auth": "Silvia Cagnani",
+      "camera": "Nikon Z6 + 24-70 f/4 S Kit",
+      "img": "img/2_m.jpg"
+    },
+    {
+      "auth": "Ambroise Verschaffelt",
+      "camera": "Canon EOS R 24-105",
+      "img": "img/3_m.jpg"
+    },
+    {
+      "auth": "Silvia Cagnani",
+      "camera": "Canon EOS 850D 18-135 mm",
+      "img": "img/4_m.jpg"
+    },
+    {
+      "auth": "Silvia Cagnani",
+      "camera": "Canon EOS R 24-105",
+      "img": "img/5_m.jpg"
+    },
+    {
+      "auth": "Ambroise Verschaffelt",
+      "camera": "Nikon Z6 + 24-70 f/4 S Kit",
+      "img": "img/6_m.jpg"
+    },
+    {
+      "auth": "Silvia Cagnani",
+      "camera": "Canon EOS 850D 18-135 mm",
+      "img": "img/7_m.jpg"
+    },
+    {
+      "auth": "Ambroise Verschaffelt",
+      "camera": "Canon EOS R 24-105",
+      "img": "img/8_m.jpg"
+    },
+    {
+      "auth": "Ambroise Verschaffelt",
+      "camera": "Nikon Z6 + 24-70 f/4 S Kit",
+      "img": "img/9_m.jpg"
+    }
+  ]
+}

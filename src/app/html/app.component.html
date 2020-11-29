@@ -1,0 +1,16 @@
+<div class="main" #main>
+
+  <div class="myFon" (click)="onEdit($event)" #myFon>
+
+      <div class="body">
+        <div class="elem" *ngFor="let table of tables">
+          <p class="pp">{{table?.auth}}</p>
+          <p class="ppp">{{table?.camera}}</p>
+          <img src="{{table?.img}}" alt="" class="img" #img>
+
+        </div>
+      </div>
+
+  </div>
+
+</div>
